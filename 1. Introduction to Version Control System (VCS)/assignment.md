@@ -15,6 +15,11 @@
 
 **Submission:** Written answers 
 
+**Answer:-**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e7a7774-f000-49dd-982a-0a62383533a6" />
+
+
 ---
 
 ### Assignment 2: Types of Version Control Systems
@@ -31,7 +36,13 @@
 4. Which type is Git? Justify your answer in 3–4 lines.
 
 **Submission:** Diagrams + written explanation
-<img width="1200" height="1600" alt="WhatsApp Image 2026-08-26 at 9 08 24 AM" src="https://github.com/user-attachments/assets/5973be68-67e5-458d-9c60-be21b703d27a" />
+
+**Answer:-**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7719b1e0-cbca-4613-a5fb-cbd011ec4fcb" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d22bb3b4-1195-41e7-8491-1b97c74b3fb2" />
+
+
 
 ---
 
@@ -57,6 +68,10 @@
 
 **Submission:** Completed table + answers
 
+**Answer:-**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/63256cdd-44c6-4a77-b873-03a2d2bed8df" />
+
 ---
 
 ### Assignment 4: Why Git is the Most Popular VCS
@@ -74,6 +89,10 @@
 
 **Submission:** Written answers
 
+**Answer:-**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/47e7dcc9-0c26-4dd3-948f-0383ea5f63df" />
+
 ---
 
 ### Assignment 5: Conceptual + Real-Life Application
@@ -88,6 +107,10 @@
 4. Write 4 key takeaways you learned from Day 1.
 
 **Submission:** Written answers + diagram
+
+**Answer:**
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f6683c41-c1cc-4e2e-bb2e-33277129af9d" />
 
 ---
 
