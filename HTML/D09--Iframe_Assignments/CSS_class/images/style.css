@@ -1,0 +1,14 @@
+/* style.css */
+.heading-cyan {
+    color: white;
+    background-color: cyan;
+    border: 2px solid pink;
+    padding: 10px;
+}
+
+.blue-para {
+    background-color: blue;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+}
